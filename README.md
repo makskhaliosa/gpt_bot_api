@@ -41,4 +41,4 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
-### Документация доступна по адресу: 
+### Документация доступна по адресу: BASE_URL/api/v1/schema/swagger-ui/
